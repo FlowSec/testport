@@ -1,0 +1,36 @@
+.home-bg{
+    
+    color: black;
+    font-weight: 500;
+    background-image: url("float.webp");
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.contact-bg{
+    
+    
+    font-weight: 500;
+    background-image: url("maui.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.con{
+    color: white;
+}
+
+h1{
+    color: black;
+}
+.profile {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+    
